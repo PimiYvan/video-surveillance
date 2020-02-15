@@ -1,2 +1,2 @@
 # video-surveillance
-streaming video surveillance,
+streaming video surveillance
